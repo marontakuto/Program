@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 # 設定定数
 PROJECTION_LAT_CENTER = 35.0000
 PROJECTION_LON_CENTER = 135.0000
-CSV_FILE_PATH = r'C:\Users\maron\Program\NED\log.csv'
+CSV_FILE_PATH = r'log.csv'
 REQUIRED_FIELDS = ['target_lat', 'target_lon', 'heading_deg', 'offset_deg']
 FIGURE_SIZE = (15, 7)
 FONT_FAMILY = 'Yu Gothic'
